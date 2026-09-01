@@ -20,7 +20,6 @@ class A {
 
 public class Main {
     public static void main(String[] args){
-        A obj1 = new A();
         A obj2 = new A(10);
         A obj3 = new A(10,20);
         System.out.println("Object 2 element is "+obj2.a);
