@@ -12,6 +12,8 @@ class Book{
         this.isbn = isbn;
         bookCount++;
     }
+    //getter
+    
     public String getTitle(){
         return title;
     }
@@ -21,6 +23,17 @@ class Book{
     }
     public Double getPrice(){
         return  price;
+    }
+
+    //setter
+    public void setPrice(double p){
+        this.price = p;
+    }
+    public void setTitle(String t){
+        this.title = t;
+    }
+    public void setPrice(String a){
+        this.author = a;
     }
 };
 
