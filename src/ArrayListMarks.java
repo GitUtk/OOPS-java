@@ -32,6 +32,7 @@ class MarksOperations {
     }
 }
 
+
 public class ArrayListMarks {
     public static void main(String[] args) {
         List<Integer> marks = new ArrayList<>();
