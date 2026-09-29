@@ -1,3 +1,5 @@
+package oops;
+
 interface Payment {
     void makePayment();
 }

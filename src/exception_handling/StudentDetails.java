@@ -1,3 +1,5 @@
+package exception_handling;
+
 import java.util.*;
 class InvalidMarksException extends Exception {
     InvalidMarksException(String message) {

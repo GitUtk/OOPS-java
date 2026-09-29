@@ -1,3 +1,5 @@
+package oops;
+
 class A {
     int a,b,c;
     A(){

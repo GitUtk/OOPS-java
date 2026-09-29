@@ -1,4 +1,6 @@
-public class shapes {
+package oops;
+
+class shapes {
     public void area() {
         System.out.println("Empty Shape");
     }

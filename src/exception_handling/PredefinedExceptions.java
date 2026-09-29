@@ -1,3 +1,5 @@
+package exception_handling;
+
 import java.util.Scanner;
 public class PredefinedExceptions{
     public static void main(String[] args) {

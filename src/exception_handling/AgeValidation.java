@@ -1,3 +1,5 @@
+package exception_handling;
+
 import java.util.Scanner;
 
 public class AgeValidation {

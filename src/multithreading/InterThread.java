@@ -1,3 +1,5 @@
+package multithreading;
+
 class BankAccount {
     int balance = 700;
 

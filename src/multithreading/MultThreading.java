@@ -1,3 +1,5 @@
+package multithreading;
+
 public class MultThreading {
     public static void main(String[] args) {
     Counter ctr = new Counter();
